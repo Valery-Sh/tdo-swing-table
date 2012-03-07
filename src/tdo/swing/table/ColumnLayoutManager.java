@@ -1,7 +1,7 @@
 /*
  * ColumnLayoutManager.java
  *
- * Created on 18 јпрель 2007 г., 15:36
+ * Created on 18 јпрель 2007 г., 15:36:00
  *
  */
 
